@@ -1,0 +1,12 @@
+Lab: Write C programs to:
+1. Print Hello World
+2. Add two numbers
+3. Calculate compound interest
+4. Calculate power of a number
+5. Swap two numbers
+6. Calculate area of rectangle
+7. Calculate area and circumference of circle
+8. To find ASCII value of a character
+9. Print default values of primitive data type variables
+10. Swap two variables without using the third variable
+11. Print Fibonacci series till n 
